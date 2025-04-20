@@ -59,8 +59,8 @@ methods.
 Clone the `void-packages` git repository and install the bootstrap packages:
 
 ```
-$ git clone https://github.com/void-linux/void-packages.git
-$ cd void-packages
+$ git clone https://github.com/Renan2010/chaotic-void-packages.git
+$ cd chaotic-void-packages
 $ ./xbps-src binary-bootstrap
 ```
 
@@ -241,7 +241,7 @@ The description of these directories is as follows:
 The simplest form of building package is accomplished by running the `pkg` target in `xbps-src`:
 
 ```
-$ cd void-packages
+$ cd chaotic-void-packages
 $ ./xbps-src pkg <pkgname>
 ```
 
