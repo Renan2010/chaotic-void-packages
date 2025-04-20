@@ -1,7 +1,6 @@
-## The XBPS source packages collection
+## The Chaotic XBPS source packages collection
 
-This repository contains the XBPS source packages collection to build binary packages
-for the Void Linux distribution.
+"Chaotic Void Packages is inspired by Chaotic AUR, and it's a collection of XBPS source packages aimed at building binary packages for the Void Linux distribution."
 
 The included `xbps-src` script will fetch and compile the sources, and install its
 files into a `fake destdir` to generate XBPS binary packages that can be installed
